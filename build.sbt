@@ -1,4 +1,4 @@
-ThisBuild / scalaVersion := "3.1.0"
+ThisBuild / scalaVersion := "3.0.8"
 ThisBuild / scalacOptions ++= List("-feature", "-deprecation", "-Ykind-projector", "-source:future")
 
 lazy val root = project
